@@ -1,0 +1,13 @@
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\bin\Debug\netcoreapp3.1\DigitalDesining_TestTask.exe
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\bin\Debug\netcoreapp3.1\DigitalDesining_TestTask.deps.json
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\bin\Debug\netcoreapp3.1\DigitalDesining_TestTask.runtimeconfig.json
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\bin\Debug\netcoreapp3.1\DigitalDesining_TestTask.runtimeconfig.dev.json
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\bin\Debug\netcoreapp3.1\DigitalDesining_TestTask.dll
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\bin\Debug\netcoreapp3.1\DigitalDesining_TestTask.pdb
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.csproj.AssemblyReference.cache
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.AssemblyInfoInputs.cache
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.AssemblyInfo.cs
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.dll
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.pdb
+C:\Users\Arion\OneDrive\Рабочий стол\Digital_TaskC#\DigitalDesining_TestTask\DigitalDesining_TestTask\obj\Debug\netcoreapp3.1\DigitalDesining_TestTask.genruntimeconfig.cache
