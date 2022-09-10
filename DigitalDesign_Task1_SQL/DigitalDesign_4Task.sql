@@ -1,0 +1,1 @@
+select [Name] from Employee where Name like 'Ð%Í'
